@@ -1,0 +1,34 @@
+.detalhesEvento{
+	margin-top:10px;
+	box-shadow: 0px 0px 5px grey;
+	padding-top: 10px;
+	padding-left: 20px;
+	margin-bottom: 60px;
+	border-radius: 20px 20px;
+}
+
+form.convidado{
+	box-shadow: 0px 0px 5px grey;
+	padding-top: 10px;
+	padding-left: 20px;
+	padding-bottom: 20px;
+	margin-bottom: 60px;
+	border-radius: 20px 20px;
+}
+
+.tabelaConvidado{
+    padding:10px 40px; 
+    width:50%;
+    resize:both;
+    overflow:auto;
+}
+
+.formEvento{
+	margin-top:10px;
+	box-shadow: 0px 0px 5px grey;
+	padding-top: 10px;
+	padding-left: 20px;
+	padding-bottom: 20px;
+	margin-bottom: 60px;
+	border-radius: 20px 20px;
+}

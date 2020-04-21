@@ -15,6 +15,7 @@ public class Convidado implements Serializable {
 	@Id
 	@NotEmpty
 	private String rg;
+	@NotEmpty
 	private String nomeConvidado;
 	
 	@ManyToOne
